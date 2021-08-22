@@ -1,0 +1,27 @@
+{
+  "name": "gb_js2",
+  "version": "1.0.0",
+  "description": "js2_lesson7",
+  "main": "server.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "node-static": "^0.7.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makiss92/GB_JS2.git"
+  },
+  "author": "Ivanov_M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makiss92/GB_JS2/issues"
+  },
+  "homepage": "https://github.com/makiss92/GB_JS2#readme"
+}
